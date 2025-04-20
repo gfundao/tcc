@@ -1,0 +1,4 @@
+[Banco de Dados]
+DriverID = SQLite
+Database = C:\Projetos\projeto_MEUBOLSO\db\SistemaFinanceiro.db
+lockingMode = Normal
