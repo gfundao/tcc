@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/27 14:54:57.000.299,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 21:59:55.000.556,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/28 22:05:21.000.027,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO.dfm</Transaction>
+    <Transaction>2024/11/28 22:05:21.000.027,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO.pas</Transaction>
+    <Transaction>2024/11/28 22:09:09.000.617,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\MonolitoFinanceiro.View.Principal.dproj</Transaction>
+    <Transaction>2024/11/28 22:10:45.000.652,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Principal.pas</Transaction>
+    <Transaction>2024/11/28 22:10:45.000.652,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Principal.dfm</Transaction>
+    <Transaction>2024/11/28 22:11:12.000.290,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\MonolitoFinanceiro.View.Principal.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\MonolitoFinanceiro.dproj</Transaction>
+    <Transaction>2024/11/29 16:26:23.000.487,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2024/11/29 16:27:33.000.055,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.CadastroPadrao.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.dfm</Transaction>
+    <Transaction>2024/11/29 16:27:33.000.055,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.CadastroPadrao.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 10:44:22.000.004,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2024/12/01 10:44:47.000.025,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Splash.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.dfm</Transaction>
+    <Transaction>2024/12/01 10:44:47.000.025,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Splash.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2024/12/05 14:27:54.000.985,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2024/12/05 14:29:08.000.429,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\Model\MonolitoFinanceiro.Model.Conexao.dfm</Transaction>
+    <Transaction>2024/12/05 14:29:08.000.429,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\Model\MonolitoFinanceiro.Model.Conexao.pas</Transaction>
+    <Transaction>2024/12/05 14:33:04.000.655,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2024/12/05 18:56:32.000.503,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Usuarios.pas</Transaction>
+    <Transaction>2024/12/05 18:56:32.000.503,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Usuarios.dfm</Transaction>
+    <Transaction>2025/01/13 15:31:17.000.081,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/01/13 15:31:37.000.371,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/01/13 15:33:02.000.345,C:\Projetos\projeto_MEUBOLSO\Unit1.dfm=C:\Projetos\projeto_MEUBOLSO\src\Model\MonolitoFinanceiro.Model.Usuarios.dfm</Transaction>
+    <Transaction>2025/01/13 15:33:02.000.345,C:\Projetos\projeto_MEUBOLSO\Unit1.pas=C:\Projetos\projeto_MEUBOLSO\src\Model\MonolitoFinanceiro.Model.Usuarios.pas</Transaction>
+    <Transaction>2025/01/27 20:04:02.000.181,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/01/27 20:05:34.000.674,C:\Projetos\projeto_MEUBOLSO\src\Util\MonolitoFinanceito.Utilitarios.pas=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/03 20:35:30.000.675,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/03 20:48:46.000.072,C:\Projetos\projeto_MEUBOLSO\Unit1.dfm=C:\Projetos\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Login.dfm</Transaction>
+    <Transaction>2025/02/03 20:48:46.000.072,C:\Projetos\projeto_MEUBOLSO\Unit1.pas=C:\Projetos\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.Login.pas</Transaction>
+    <Transaction>2025/02/04 19:48:56.000.395,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/04 19:52:19.000.794,C:\Projetos\projeto_MEUBOLSO\src\Model\Entidades\MonolitoFinanceiro.Model.Entidades.Usuario.pas=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 18:51:27.000.083,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 18:56:40.000.141,C:\Projetos\projeto_MEUBOLSO\src\Model\MonolitoFinanceiro.Model.Sistema.dfm=C:\Projetos\projeto_MEUBOLSO\Unit1.dfm</Transaction>
+    <Transaction>2025/02/05 18:56:40.000.141,C:\Projetos\projeto_MEUBOLSO\src\Model\MonolitoFinanceiro.Model.Sistema.pas=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/13 20:08:27.000.362,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/02/13 20:09:23.000.653,C:\Projetos\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.RedefinirSenha.dfm=C:\Projetos\projeto_MEUBOLSO\Unit1.dfm</Transaction>
+    <Transaction>2025/02/13 20:09:23.000.653,C:\Projetos\projeto_MEUBOLSO\src\View\MonolitoFinanceito.View.RedefinirSenha.pas=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+    <Transaction>2025/03/30 09:55:09.000.784,=C:\Projetos\projeto_MEUBOLSO\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="src"/>
+    <File Path="src\Model"/>
+    <File Path="src\Model\Entidades"/>
+    <File Path="src\Model\Entidades\MonolitoFinanceiro.Model.Entidades.Usuario.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Conexao.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Conexao.dfm"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Usuarios.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Usuarios.dfm"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Sistema.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Sistema.dfm"/>
+    <File Path="src\Util"/>
+    <File Path="src\Util\MonolitoFinanceito.Utilitarios.pas"/>
+    <File Path="src\View"/>
+    <File Path="src\View\MonolitoFinanceito.View.CadastroPadrao.pas"/>
+    <File Path="src\View\MonolitoFinanceito.View.CadastroPadrao.dfm"/>
+    <File Path="src\View\MonolitoFinanceito.View.Principal.pas"/>
+    <File Path="src\View\MonolitoFinanceito.View.Principal.dfm"/>
+    <File Path="src\View\MonolitoFinanceito.View.Splash.pas"/>
+    <File Path="src\View\MonolitoFinanceito.View.Splash.dfm"/>
+    <File Path="src\View\MonolitoFinanceito.View.Usuarios.pas"/>
+    <File Path="src\View\MonolitoFinanceito.View.Usuarios.dfm"/>
+    <File Path="src\View\MonolitoFinanceito.View.Login.pas"/>
+    <File Path="src\View\MonolitoFinanceito.View.Login.dfm"/>
+    <File Path="src\View\MonolitoFinanceito.View.RedefinirSenha.pas"/>
+    <File Path="src\View\MonolitoFinanceito.View.RedefinirSenha.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
